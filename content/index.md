@@ -1,4 +1,3 @@
 ---
-title: Welcome to Bristol CTF Club Resources
+title: Bristol CTF Club Resources
 ---
-
